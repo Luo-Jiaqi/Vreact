@@ -1,0 +1,8 @@
+name	Rxn_smiles	voc_smiles	log10
+2-methyl-4-penten-2-ol	[O-][O+]=O	CC(C)(CC=C)O	-17.36957212
+γ-caprolactone 	 [OH]	CCC1CCC(=O)O1 	-11.19382003
+γ-caprolactone 	[Cl]	CCC1CCC(=O)O1 	-9.886056648
+γ-heptalactone 	 [OH]	CCCC1CCC(=O)O1 	-11.05551733
+γ-heptalactone 	[Cl]	CCCC1CCC(=O)O1 	-9.769551079
+2- (1,1,2-trifluoro-2-heptafluoropropyloxy-ethylsulfanyl)-ethanol	 [OH]	FC(C(OC(C(C(F)(F)F)(F)F)(F)F)F)(F)SCCO	-11.37675071
+2- (1,1,2-trifluoro-3-heptafluoropropyloxy-ethylsulfanyl)-ethanol	[Cl]	FC(C(OC(C(C(F)(F)F)(F)F)(F)F)F)(F)SCCO	-10.82390874
