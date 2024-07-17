@@ -17,7 +17,7 @@ The trained Vreact model are available in the repository.Users can download Vrac
 Users can predict the VOC oxidation rate constants by running the predict.py in the ./code directory.
 
 # Data availability
-All modeling data used in this paper is freely available at ./data directory。
+All modeling data used in this paper is freely available at ./data directory.
    
 
 
