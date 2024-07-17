@@ -6,15 +6,18 @@ Volatile Organic Compounds (VOCs) significantly impact global atmospheric chemis
 The Vreact model can be utilized in two ways:
 
 ## 1. Visualization via Web Interface
-    we provide an interactive web-based tool (http://175.27.164.104:8002/) to facilitate VOC oxidation rate predictions.On this interface, users can use the Vreact model to calculate the reaction rate constants between VOCs and oxidants by inputting the SMILES of VOC.
+we provide an interactive web-based tool (http://175.27.164.104:8002/) to facilitate VOC oxidation rate predictions.On this interface, users can use the Vreact model to calculate the reaction rate constants between VOCs and oxidants by inputting the SMILES of VOC.Additionally, if you want to obtain a visualization of atomic weights during the oxidation process of specific VOC molecules, you can also achieve this through the same webpage.
 
 ## 2. Batch Predictions
 ### Envirnoment Setup
 Make sure to configure your environment using the provided environment.yml file to ensure all dependencies are installed correctly. 
 ### Pre-trained Model
-The trained Vreact model are available in the repository.Users can download Vract.tar in the model directory.
+The trained Vreact model are available in the repository.Users can download Vract.tar in the ./model directory.
 ### Vreact Prediction
-Users can predict the VOC oxidation rate constants by running the predict.py in the code directory.
+Users can predict the VOC oxidation rate constants by running the predict.py in the ./code directory.
+
+# Data availability
+All modeling data used in this paper is freely available at ./data directory。
    
 
 
